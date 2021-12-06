@@ -77,7 +77,7 @@ The purpose of this analysis is to analyze and determine if there is any bias to
 
 In the analysis I analyzed 5-star reviews within conditions mentioned above. Calculations show that there is **positivity bias for reviews in the Vine program**. The results show that percentage of 5 stars Vine reviews is 51.1% and the percentage of 5 stars non-Vine reviews is 38.7%. **Vine reviews** have a **higher percentage** of 5 stars reviews, **12.4%** to be exact.
 
-**Additional analyses and suggestions**
+**Additional analysis and suggestions**
 
 We could expand this analysis by calculating percentage for reviews by star rating. Based on the results (Figure 6 & 7), there is a larger difference in percentage for 1-star reviews than for 5-stars reviews. Vine reviews have only **1.06% of 1-star reviews**, while non-Vine reviews have **25.46% 1-star reviews** within conditions mentioned above. Similarly, there is **5.32% 2-stars Vine reviews** and **8.37% 2-stars non-Vine reviews**. 
 
