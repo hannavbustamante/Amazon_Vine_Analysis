@@ -82,8 +82,8 @@ In the analysis I analyzed 5-star reviews within conditions mentioned above. Cal
 We could expand this analysis by calculating percentage for reviews by star rating. Based on the results (Figure 6 & 7), there is a larger difference in percentage for 1-star reviews than for 5-stars reviews. Vine reviews have only **1.06% of 1-star reviews**, while non-Vine reviews have **25.46% 1-star reviews** within conditions mentioned above. Similarly, there is **5.32% 2-stars Vine reviews** and **8.37% 2-stars non-Vine reviews**. 
 
 <p align="center">
-<img src="Graphics/vine_review_by_star.PNG">
-<img src="Graphics/non_vine_review_by_star.PNG">
+<img src="Graphics/vine_review_by_star.PNG" width="45%">
+<img src="Graphics/non_vine_review_by_star.PNG" width="50%">
 </p>
 
 <p align="center">
