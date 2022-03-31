@@ -1,5 +1,5 @@
 # Amazon Vine Review Analysis
-*Analysis with Pyspak and AWS*
+*Analysis with Pyspark and AWS*
 
 Note: Password from Amazon_Reviews_ETL.ipynb file is deleted for safety reasons. File needs pgAdmin password in order to run. 
 
